@@ -13,6 +13,7 @@ namespace Carrefour_Exercice_Git_Avance
         public void Accelerer()
         {
             Vitesse += 2;
+            // Bonjour//
         }
 
         public void Freiner()
